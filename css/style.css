@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: darkslategrey;
+    color: white;
+    height: 100px;
+    text-align: center;
+}
+.banner{
+    background-color: deepskyblue;
+    text-align: center;
+    height: 400px;
+    color: black;
+}
+.content{
+    overflow: hidden;
+}
+.left-content{
+    background-color: black;
+    color: cadetblue;
+    text-align: center;
+    height: 200px;
+    width: 50%;
+    float: left;
+
+}
+.right-content{
+    background-color: darkred;
+    color: black;
+    text-align: center;
+    height: 200px;
+    width: 50%;
+    float: left;
+
+}
+.second-content{
+    overflow: hidden;
+}
+.long-content{
+    background-color: dimgrey;
+    color: yellow;
+    width: 75%;
+    text-align: center;
+    height: 150px;
+    float: left;
+}
+.short-content{
+    background: darkviolet;
+    color: black;
+    text-align: center;
+    width: 25%;
+    height: 150px;
+    float: left;
+}
+.third-client{
+    overflow: hidden;
+}
+.client-one{
+    background-color: cadetblue;
+    color: darkblue;
+    text-align: center;
+    width: 25%;
+    float: left;
+    height: 75px;
+}
+.client-two{
+    background-color: deepskyblue;
+    color: black;
+    text-align: center;
+    width: 25%;
+    float: left;
+    height: 75px;
+}
+.client-three{
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 25%;
+    float: left;
+    height: 75px;
+}
+.client-four{
+    background-color: tan;
+    color: tomato;
+    text-align: center;
+    width: 25%;
+    float: left;
+    height: 75px;
+}
+.thisIsFooter{
+    background-color: darkorange;
+    color: yellow;
+    text-align: center;
+    height: 50px;
+}
